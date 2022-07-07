@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerManager
+  - Canvas
+  - Score
+  - GameManager
+  - Enemy
+  - EnemyProjectile
+  - Player Projectile
+  - MusicToggle
+  - AudioManager
+  - MoveSpots
+  - Player Mana Projectile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Touch Input
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background1
+    uniqueID: 3740386463
+    locked: 0
+  - name: Midground1
+    uniqueID: 1646408149
+    locked: 0
+  - name: Foreground1
+    uniqueID: 1726906785
+    locked: 0
